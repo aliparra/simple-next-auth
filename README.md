@@ -8,7 +8,7 @@ This project shows a very simple implementation of OAuth authentication with nex
 
 1. First, run the development server:
 
-    ``npm run dev``
+ ``npm run dev``
 
 2. Add .env.local
 
