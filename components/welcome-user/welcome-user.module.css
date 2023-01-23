@@ -1,0 +1,29 @@
+.welcome__wrapper {
+	width: 100%;
+	margin: 2rem;
+	padding: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.welcome__content {
+	display: flex;
+	flex-direction: column;
+}
+
+.welcome__content p {
+	margin: 1rem 0 0;
+}
+
+.welcome__content h1 {
+	margin: 1rem 0;
+}
+
+.navbar__link {
+	color: #fff;
+	font-family: 'Poppins';
+}
+
+.navbar__link:hover {
+	font-weight: bold;
+}
