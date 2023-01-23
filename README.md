@@ -6,11 +6,7 @@ This project shows a very simple implementation of OAuth authentication with nex
 
 ## Getting Started
 
-1. First, run the development server:
-
- ``npm run dev``
-
-2. Add .env.local
+**STEP 1. Add .env.local**
 
 To make it work please don't forget to add a .env.local on the project root with a:
 
@@ -19,6 +15,12 @@ To make it work please don't forget to add a .env.local on the project root with
 ``GITHUB_SECRET=yourGithubSecret``
 
 ``NEXTAUTH_URL=http://localhost:3000.``
+
+**STEP 2. Run the development server:**
+
+``npm run dev``
+
+
 
 Follow the docs [here](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app) to get GITHUB_ID and GITHUB_SECRET
 
