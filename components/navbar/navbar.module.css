@@ -1,0 +1,18 @@
+.navbar__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem;
+	width: 100vw;
+	background: #0d6efd;
+	height: 3rem;
+}
+
+.navbar__link {
+	color: #fff;
+	font-family: 'Poppins';
+}
+
+.navbar__link:hover {
+	font-weight: bold;
+}
