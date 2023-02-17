@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project shows a very simple implementation of OAuth authentication with next-auth and github. 
 
+When a user log in with Github can have access to the profile name, email and picture. 
 
 
 ## Getting Started
@@ -32,4 +33,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Screenshots
+![basic-auth-github](https://user-images.githubusercontent.com/61117650/219715575-22c96fac-c453-45d3-bd07-92b6e57ad505.png)
+
 
